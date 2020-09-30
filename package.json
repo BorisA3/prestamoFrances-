@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/BorisA3/prestamoFrances-/issues"
   },
-  "homepage": "https://github.com/BorisA3/prestamoFrances-#readme"
+  "homepage": "https://github.com/BorisA3/prestamoFrances-#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }
