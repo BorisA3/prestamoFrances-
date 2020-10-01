@@ -9,9 +9,6 @@ app.get("/", (req,res, next) => {
     res.send("!Bienvenido");
 });
 
-app.get("/carrito", (req, res, next) => {
-    res.send("Estas en el carrito");
-})
 
 // Inicializar el servidor en un puerto en especifico
 app.listen(5000, () => {
